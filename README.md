@@ -19,7 +19,7 @@
 - Deployed Flask-based recommendation engine with AWS for vendor optimization  
 
 **Undergraduate Researcher @ National Tsing Hua University**
-[GitHub]([https://github.com/mocalucy/resume-matcher](https://github.com/mocalucy/smart-restaurant-crawler)) 
+[GitHub](https://github.com/mocalucy/smart-restaurant-crawler)
 - Applied Google BERT to analyze 6M+ restaurant reviews for category-based rating prediction  
 - Built NLP pipeline with Python & MySQL; optimized web crawling via Google Maps API (7× faster refresh)  
 - Improved sentiment classification accuracy through domain-specific feature engineering  
@@ -29,7 +29,7 @@
 ### 📊 Semiconductor Raw Material Demand Forecasting  
 Forecasted key raw material needs for the **Taiwanese semiconductor industry** using traditional time-series models and modern ML approaches. Achieved <5% error across multiple SKUs.  
 _Key tools: Python (ARIMA, XGBoost), Excel, GCP, Tableau_
-[GitHub]([https://github.com/mocalucy/resume-matcher](https://github.com/mocalucy/Demand-Forecasting-of-Semiconductor-Raw-Material)) 
+[GitHub](https://github.com/mocalucy/Demand-Forecasting-of-Semiconductor-Raw-Material) 
 
 ---
 
