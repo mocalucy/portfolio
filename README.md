@@ -27,7 +27,7 @@
 ## 🛠️ Selected Projects
 
 ### 📊 Semiconductor Raw Material Demand Forecasting
-[GitHub](https://github.com/mocalucy/Demand-Forecasting-of-Semiconductor-Raw-Material) 
+[GitHub](https://github.com/mocalucy/Demand-Forecasting-of-Semiconductor-Raw-Material)  
 Forecasted key raw material needs for the **semiconductor industry** using traditional time-series models and modern ML approaches. Achieved <5% error across multiple SKUs.  
 
 ---
