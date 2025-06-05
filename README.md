@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, TensorFlow, PyTorch, SQL, AWS, GCP, Tableau, R, Excel
 
 ## 🎓 Education
-- **M.S., Industrial and Operations Engineering** | University of Michigan
-- **B.S., Industrial Engineering and Engineering Management** | National Tsing Hua University
+**M.S., Industrial and Operations Engineering** @ University of Michigan
+**B.S., Industrial Engineering and Engineering Management** @ National Tsing Hua University
 
 ## 💼 Work Experience
 
@@ -26,24 +26,21 @@
 
 ## 🛠️ Selected Projects
 
-### 📊 Semiconductor Raw Material Demand Forecasting  
-Forecasted key raw material needs for the **Taiwanese semiconductor industry** using traditional time-series models and modern ML approaches. Achieved <5% error across multiple SKUs.  
-_Key tools: Python (ARIMA, XGBoost), Excel, GCP, Tableau_
+### 📊 Semiconductor Raw Material Demand Forecasting
 [GitHub](https://github.com/mocalucy/Demand-Forecasting-of-Semiconductor-Raw-Material) 
+Forecasted key raw material needs for the **semiconductor industry** using traditional time-series models and modern ML approaches. Achieved <5% error across multiple SKUs.  
 
 ---
 
 ### 🤖 Resume Matcher with LLM + Vector Search  
 [GitHub](https://github.com/mocalucy/resume-matcher)  
 Developed an **LLM-powered resume matcher** with spaCy + Qdrant for semantic search.  
-_Key tools: Python, spaCy, Qdrant
 
 ---
 
 ### 📉 Life Satisfaction vs. Socioeconomic Factors (R)  
 [GitHub](https://github.com/mocalucy/Analysis-of-Demographic-and-Socioeconomic-Impacts-on-Life-Satisfaction)  
 Explored the impact of income, education, employment, and health on life satisfaction using multiple regression models and visualizations.  
-_Key tools: R, ggplot2, tidyverse_c
 
 ---
 
