@@ -1,5 +1,5 @@
-theme: jekyll-theme-minimal
 title: Lucy Lin
 logo: /assets/img/headshot_circle.png
-description: [Open to work!] 👩‍💻 Data Scientist with hands-on experience in machine learning, NLP, and data-driven product development. Passionate about solving real-world problems with scalable, intelligent systems.
+description: 👩‍💻 Data Scientist with hands-on experience in machine learning, NLP, and data-driven product development. Passionate about solving real-world problems with scalable, intelligent systems.
 #show_downloads: true
+theme: jekyll-theme-minimal
