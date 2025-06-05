@@ -9,7 +9,7 @@
 ## 💼 Work Experience
 
 **Data Scientist @ Skyeyez**  
-- Built a **video classification system** for child-safety incidents using CNN + LSTM on GCP  
+- Built a **video classification system** for violation incidents using CNN + LSTM on GCP  
 - Fine-tuned MobileNetV2 for real-time feature extraction and anomaly detection  
 - Collaborated cross-functionally to develop end-to-end ML pipelines  
 
