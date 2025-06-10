@@ -18,7 +18,7 @@
 - Developed predictive dashboard in Oracle Analytics to highlight procurement gaps  
 - Deployed Flask-based recommendation engine with AWS for vendor optimization  
 
-**Undergraduate Researcher @ National Tsing Hua University**
+**Undergraduate Researcher @ National Tsing Hua University**  
 [GitHub](https://github.com/mocalucy/smart-restaurant-crawler)
 - Applied Google BERT to analyze 6M+ restaurant reviews for category-based rating prediction  
 - Built NLP pipeline with Python & MySQL; optimized web crawling via Google Maps API (7× faster refresh)  
